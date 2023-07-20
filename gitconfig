@@ -62,3 +62,5 @@
 [user]
 	email = mariana.ballardin@hotmail.com
 	name = Mariana Ballardin
+[credential]
+	helper = osxkeychain
